@@ -1,16 +1,27 @@
-### Hi there 👋
+## About Me:
 
-<!--
-**Rajshekar2641/Rajshekar2641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Rajashekar Gande. I did my undergraduation in Electrical and Communication Engineering at MVSR engineering college, Hyderabad. I later worked as Associate Engineer at Ample technologies, Hyderabad for about 1 year and 6 months. Later, I started studying my Master's Degree in Applied Computer Sciences at Northwest Missouri State University. My hobbies are playing cricket,table tennis. I woud like to be a Front-end developer, open to learn new technologies and prove myself efficient and asset for the company I work.
 
-Here are some ideas to get you started:
+## Collaboration:
+- GitHub Profile : https://github.com/Rajshekar2641
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages:
+- Java
+- SQL, NoSQL
+- HTML, CSS
+- JavaScript
+- SpringBoot MVC
+
+## Educational Qualifications:
+1. I finished my +2 in MPC(Maths, Physics, Chemistry) at Sri Chaitanya Junior College and cleared the state level entrance examination called EAMCET.
+1. I have finished my Bachelor's Degree in Electronics and Communication Engineering from MVSR Engineering College, Osmania University.
+
+
+## Strengths:
+1. Flexible to handle change
+1. Stay focussed while meeting deadlines
+1. Good team player
+
+## Connections:
+1. LinkedIn: https://www.linkedin.com/in/rajashekar-gande-26363919a/
+1. GitHub: https://github.com/Rajshekar2641
